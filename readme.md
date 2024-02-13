@@ -15,14 +15,12 @@ The Secure User Authentication and Authorization System utilizes Express.js as t
 - Token-based authentication using JWT (JSON Web Tokens) ensures secure user login.
 - The role field is optional and can be included during registration. If not provided, the role will default to "user".
 
-
 ### 🔒 Secure Routes and Authorization
 
 - Certain routes are protected and require a valid JWT token for access, ensuring secure data transmission.
 - Middleware for JWT validation secures these routes and ensures authorized access.
 - Role-based access control system implemented with roles like "user" and "admin."
 - Access to certain routes restricted based on the user's role, with additional permissions for admins.
-
 
 ### 🔑 Password Reset
 
@@ -79,6 +77,8 @@ SMTP_PASSWORD = ********
     npm run dev || nodemon server.js
 
    ```
+
+   You can also refer to our [Postman Documentation](https://documenter.getpostman.com/view/27916984/2sA2r535WX) for additional guidance.
 
 ## Technology Stack
 
