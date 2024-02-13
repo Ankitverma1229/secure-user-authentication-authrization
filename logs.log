@@ -1,0 +1,7 @@
+{"level":"info","message":"User registered: ankit8@gmail.com"}
+{"level":"info","message":"Login successful: ankit5@gmail.com"}
+{"level":"warn","message":"Password reset failed - User not found with email: awer@gmail.com"}
+{"level":"info","message":"Password reset email sent successfully to: ankitkumar040722@gmail.com"}
+{"level":"info","message":"Password reset successfully for user with id: 65caf9ff3ee9fe787cab158d"}
+{"level":"error","message":"Error in password reset: Password must be at least 6 characters"}
+{"level":"info","message":"Password reset successfully for user with id: 65caf9ff3ee9fe787cab158d"}
